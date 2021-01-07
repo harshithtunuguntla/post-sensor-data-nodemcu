@@ -18,4 +18,4 @@ A knowledge on NodeMCU, sensors and coding helps making project creative.
 ## Usage :
 
 Connect DTH sensor to the required pins(Vin, GND, Data) on NodeMCU and powerup NodeMCU by connecting it with a PC and write the code on Arduino IDE save it with the required name. Upload the code onto the NodeMCU development board. 
-Once succesfully uploaded open the [local host](https://127.0.0.1) on any web browser and observe the readings posted by the sensor over there.
+Once succesfully uploaded open the [local host](http://127.0.0.1) on any web browser and observe the readings posted by the sensor over there.
